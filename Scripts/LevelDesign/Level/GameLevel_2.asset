@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157bc370d718ff8418c8ea61066b31bc, type: 3}
+  m_Name: GameLevel_2
+  m_EditorClassIdentifier: 
+  gameLevel: 2
+  size: 5
+  timer: 120
+  clockWise_X: 1
+  counterClockWize_X: 0
+  Slash_X: 1
+  BackSlash_X: 0
+  interation_Positive_X: 2
+  interation_Negative_X: 2
+  clockWise_Y: 0
+  counterClockWize_Y: 1
+  Slash_Y: 0
+  BackSlash_Y: 1
+  interation_Positive_Y: 2
+  interation_Negative_Y: 2
+  clockWise_Z: 1
+  counterClockWize_Z: 0
+  Slash_Z: 0
+  BackSlash_Z: 1
+  interation_Negative_Z: 2
+  interation_Positive_Z: 2
